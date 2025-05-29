@@ -67,7 +67,7 @@ sudo ./install-n8n.sh
 ```bash
 # Clone the repository
 git clone https://github.com/itsredbull/n8n-auto-installer.git
-cd YOUR_REPO
+cd n8n-auto-installer
 
 # Make script executable
 chmod +x install-n8n.sh
